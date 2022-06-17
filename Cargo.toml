@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 winput = "0.2.5"
+colored="2.0.0"
