@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "rust_deneme"
+name = "key_stroke"
 version = "0.1.0"
 dependencies = [
  "winput",
